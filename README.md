@@ -1,5 +1,5 @@
 # bats
-> Dockerfile for building a `[bats]` image.
+> Dockerfile for building a [`bats`][bats] image.
 
 ---
 
